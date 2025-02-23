@@ -5,10 +5,6 @@
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17931837B&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17931837B&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17931837B&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=17931837B&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=17931837B&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=17931837B&theme=gruvbox)
+
 
