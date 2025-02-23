@@ -2,11 +2,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17931837B&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
-<p align="left">
-  <a href="https://github.com/17931837B">
-    <img height="20" src="https://komarev.com/ghpvc/?username=17931837B" />
-  </a>
-  <a href="https://github.com/17931837B">
-    <img height="20" src="https://img.shields.io/github/followers/17931837B?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17931837B&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17931837B&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17931837B&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=17931837B&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=17931837B&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=17931837B&theme=gruvbox)
+
