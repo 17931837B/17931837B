@@ -2,8 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17931837B&theme=gruvbox)
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17931837B" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17931837B)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
