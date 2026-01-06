@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17931837B&theme=gruvbox)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17931837B&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/17931837B/github-readme-stats)
+
 
 
 
